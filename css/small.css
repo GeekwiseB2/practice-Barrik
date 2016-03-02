@@ -1,0 +1,24 @@
+.container-fluid {
+  background-color: green;
+}
+.header {
+  color: black;
+  background-color: purple;
+}
+.nav {
+  background-color: yellow;
+}
+.content {
+  color: white;
+  background-color: blue;
+}
+.aside {
+  background-color: orange;
+}
+.promo {
+  background-color: aqua;
+}
+.footer {
+  color: black;
+  background-color: white;
+}
